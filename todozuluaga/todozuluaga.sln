@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todozuluaga.Common", "todozuluaga.Common\todozuluaga.Common.csproj", "{923B22E4-D8EC-4170-A488-A1CEABCC33F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todozuluaga.Funtions", "todozuluaga.Funtions\todozuluaga.Funtions.csproj", "{B403F4E0-2F2A-42A4-B17A-E85136D1BD4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todozuluaga.Functions", "todozuluaga.Funtions\todozuluaga.Functions.csproj", "{B403F4E0-2F2A-42A4-B17A-E85136D1BD4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todozuluaga.Test", "todozuluaga.Test\todozuluaga.Test.csproj", "{DA564D22-83AA-48D8-A0CE-7C1A7DF9D9C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todozuluaga.Test", "todozuluaga.Test\todozuluaga.Test.csproj", "{DA564D22-83AA-48D8-A0CE-7C1A7DF9D9C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace todozuluaga.Funtions.Entities
+namespace todozuluaga.Functions.Entities
 {
     public class TodoEntity : TableEntity
     {
